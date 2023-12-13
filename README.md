@@ -17,7 +17,7 @@ Throughout my academic journey, I've acquired knowledge in crafting and executin
 | [**Major Exam**](https://github.com/FrancescaViray/PrelimExam_VIRAY) | Prelim Exam |
 | [**Hands-on Activity 5**](https://github.com/FrancescaViray/CPE232_VIRAY) | Implement Ansible Roles in Playbooks |
 | [**Hands-on Activity 6**](https://github.com/FrancescaViray/CPE232_VIRAY) | Targeting Specific Nodes |
-| [**Hands-on Activity 7**](https://github.com/FrancescaViray/CPE232_VIRAY) | [Managing Files and Creating Roles in Ansible |
+| [**Hands-on Activity 7**](https://github.com/FrancescaViray/CPE232_VIRAY) | Managing Files and Creating Roles in Ansible |
 | [**Hands-on Activity 8**](https://github.com/FrancescaViray/HOA-8) | Install, Configure, and Manage Enterprise Availability Monitoring via Ansible |
 | [**Hands-on Activity 9**](https://github.com/FrancescaViray/HOA-9)  | Install, Configure, and Manage Enterprise Performance Monitoring via Ansible|
 | [**Hands-on Activity 10**](https://github.com/FrancescaViray/HOA-10) | Install, Configure, and Manage Enterprise Log Monitoring via Ansible |
@@ -26,7 +26,7 @@ Throughout my academic journey, I've acquired knowledge in crafting and executin
 | [**Hands-on Activity 12**](https://github.com/FrancescaViray/Other-HOAs/issues/5) | Build a Sample Web App in a Docker Container |
 | [**Hands-on Activity 13**](https://github.com/FrancescaViray/HOA-13) | OpenStack Prerequisite Installation |
 | [**Hands-on Activity 14**](https://github.com/FrancescaViray/HOA-14) | OpenStack Installation (Keystone, Glance, Nova) |
-| [**Hands-on Activity 15**](https://github.com/FrancescaViray/HOA-15) | [OpenStack Installation (Neutron, Horizon, Cinder) |
+| [**Hands-on Activity 15**](https://github.com/FrancescaViray/HOA-15) | OpenStack Installation (Neutron, Horizon, Cinder) |
 | [**Final Exam**](#) | Final Projec |
 
 #### 🤔 Reflection and Learnings
