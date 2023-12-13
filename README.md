@@ -1,4 +1,4 @@
-# FrancescaViray.github.io
+# FrancescaViray
 
 ### 👋 Hello World!
 I'm Francesca Viray, a dedicated Computer Engineering student passionate about the magic that happens when hardware meets software. Currently navigating the exciting waters of academia at Technological Institute of the Philippines, I'm on a quest to unravel the mysteries of circuits, algorithms, and everything in between.
