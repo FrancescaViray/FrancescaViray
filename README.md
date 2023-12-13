@@ -27,7 +27,7 @@ Throughout my academic journey, I've acquired knowledge in crafting and executin
 | [**Hands-on Activity 13**](https://github.com/FrancescaViray/HOA-13) | OpenStack Prerequisite Installation |
 | [**Hands-on Activity 14**](https://github.com/FrancescaViray/HOA-14) | OpenStack Installation (Keystone, Glance, Nova) |
 | [**Hands-on Activity 15**](https://github.com/FrancescaViray/HOA-15) | [OpenStack Installation (Neutron, Horizon, Cinder) |
-| [**Final Exam**] | Final Project(#) |
+| **Final Exam** | Final Project(#) |
 
 #### 🤔 Reflection and Learnings
 CPE 232 in summary feels like completing one engaging book on DevOps. The process of designing Ansible symphony to dancing on the collaborative practice in Git has been fun as it involves what defines modern enterprise server management. The GitHub repository is not just a picture that captures the codes, but it also exhibits flexibility, problem solving skills, and an urge to learn further. With the newly acquired knowledge, I am prepared to deal with various issues that arise in real life situations, convert concepts into remedies as well as proceed with the interesting development in DevOps environment. Here's  to the next adventure!
